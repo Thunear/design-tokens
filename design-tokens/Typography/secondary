@@ -1,0 +1,38 @@
+{
+  "theme2": {
+    "main": {
+      "value": "IBM Plex Mono",
+      "type": "string"
+    },
+    "bold": {
+      "value": "Regular",
+      "type": "string"
+    },
+    "extra-bold": {
+      "value": "Bold",
+      "type": "string"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "string"
+    }
+  },
+  "theme": {
+    "main": {
+      "value": "IBM Plex Mono",
+      "type": "string"
+    },
+    "bold": {
+      "value": "Medium",
+      "type": "string"
+    },
+    "extra-bold": {
+      "value": "SemiBold",
+      "type": "string"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "string"
+    }
+  }
+}

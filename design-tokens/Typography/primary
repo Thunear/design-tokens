@@ -1,0 +1,38 @@
+{
+  "theme2": {
+    "main": {
+      "value": "Helvetica Neue",
+      "type": "string"
+    },
+    "bold": {
+      "value": "Medium",
+      "type": "string"
+    },
+    "extra-bold": {
+      "value": "Bold",
+      "type": "string"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "string"
+    }
+  },
+  "theme": {
+    "main": {
+      "value": "Inter",
+      "type": "string"
+    },
+    "bold": {
+      "value": "Medium",
+      "type": "string"
+    },
+    "extra-bold": {
+      "value": "Semi bold",
+      "type": "string"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "string"
+    }
+  }
+}
